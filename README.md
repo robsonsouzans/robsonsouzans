@@ -1,16 +1,30 @@
-## Hi there 👋
+Olá, eu sou Robson Souza 👋
 
-<!--
-**robsonsouzans/robsonsouzans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Consultor de Tecnologia, Automação e Dados
 
-Here are some ideas to get you started:
+Especialidades
+Oracle SQL
+WinThor ERP
+Excel Avançado
+Power BI
+APIs e Integrações
+Automação de Processos
+Desenvolvimento Web
+Tecnologias
+Oracle SQL
+PL/SQL
+JavaScript
+HTML/CSS
+Power BI
+Excel VBA
+Projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Automação de faturamento
+📌 Integrações logísticas
+📌 Dashboards gerenciais
+📌 Relatórios SQL avançados
+📌 Sistemas internos para ERP
+
+🌎 https://prouai.com.br
+🌎 https://birdapi.com.br
+🌎 https://vagafy.com.br
